@@ -23,5 +23,5 @@ I am a Computer Engineering B.Tech student at Shah & Anchor Kutchhi Engineering 
 
 ### 📫 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/tanmay-shinde-9b07753bb]
-* **Portfolio/Website:** [tanmayshinde.com]
+* **Portfolio/Website:** [www.tanmayshinde.com]
 * **Email:** [tanmaynileshshinde@gmail.com]
