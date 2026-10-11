@@ -1,27 +1,77 @@
-# Hi there, I'm Tanmay 👋
-## Computer Engineering Undergrad | Full-Stack & Mobile Developer
+# Hi, I'm Tanmay Nilesh Shinde 👋
 
-🏆 **Recent Achievement:** Best UI/UX Winner at Technathon 2026
+<p align="left">
+  <b>Computer Engineering Undergrad @ SAKEC Mumbai • Full-Stack & Creative Developer • 3D WebGL Enthusiast</b>
+</p>
 
-I am a Computer Engineering B.Tech student at Shah & Anchor Kutchhi Engineering College in Mumbai. I specialize in building interactive full-stack web applications, mobile apps, and exploring computer vision automation. 
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanmay-shinde-9b07753bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.tanmayshinde.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:tanmaynileshshinde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### 🛠️ Tech Stack
-* **Frontend:** React, Tailwind CSS, TypeScript, Vite
-* **Backend & Cloud:** Node.js, Express, Firebase, Supabase
-* **Mobile:** Flutter, Android (Java/XML)
-* **Languages & Tools:** Python, Java, C++, Git, OpenCV, MediaPipe
+---
 
-### 🚀 Featured Projects
-* **CollabClass:** A real-time collaborative virtual classroom with video streaming, authentication, and live code editing.
-* **React Nexus:** An arcade web hub featuring interactive games and real-time Firebase leaderboards.
-* **Enclave:** A private photo gallery web application utilizing backend facial recognition to group reference photos.
-* **AI Virtual Mouse:** A gesture-controlled mouse application built with Python, OpenCV, and MediaPipe for hand tracking.
-* **ShiftSense:** A manual car driving simulator web app featuring custom physics and pedal response mechanics.
+### 🏆 Recognitions & Profile Highlights
+* 🥇 **Best UI/UX Award Winner** at **Technathon 2026** for building high-engagement, interactive digital experiences.
+* 🎓 Pursuing **B.Tech in Computer Engineering** at Shah & Anchor Kutchhi Engineering College (SAKEC), Mumbai.
+* 🚀 **10+ Verified Production Deployments** live on Vercel handling WebRTC video, WebSockets, and 3D WebGL physics.
+* 🏎️ Avid Formula 1 & cricket enthusiast — bringing speed, real-time telemetry, and physical simulation to modern web apps.
 
-### 📈 Currently Exploring
-* Refining real-time architectures and expanding my knowledge of scalable backend infrastructure. 
+---
+
+### 🛠️ Technical Arsenal
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <br>
+  <!-- Backend & Cloud -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <br>
+  <!-- Core & Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Systems & Live Deployments
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CollabClass** | Real-time virtual classroom with peer-to-peer WebRTC video conferencing, synchronized whiteboarding & live code editor. | React, WebRTC, Firebase, Tailwind | [🌐 Live Demo](https://collabnclass.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/collabnclass) |
+| **React Nexus** | 8-in-1 cyber arcade web ecosystem featuring global real-time cloud leaderboards & 60 FPS physics. | React, Firebase RTDB, Framer Motion | [🌐 Live Demo](https://reactnexus.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/react-nexus) |
+| **3D Quantum Portfolio** | Interactive WebGL developer console with custom F1, Cricket, and Cyber themes built from scratch. | Three.js, Web Audio API, Vite | [🌐 Live Demo](https://www.tanmayshinde.com) • [💻 Code](https://github.com/TanmayNileshShinde/portfolio) |
+| **Sleep Sentinel Cloud** | Circadian rhythm telemetry dashboard paired with automated Twilio emergency escalation dispatch. | React, Twilio API, Firebase Admin | [🌐 Live Demo](https://sleep-sentinel-cloud.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/sleep-sentinel-cloud) |
+| **Ledger Flow** | Secure personal wealth vault with compound interest engines, cashflow forecasting & Chart.js. | TypeScript, React, Chart.js | [🌐 Live Demo](https://ledger-flow.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/ledger-flow) |
+| **Vanish Chat** | Ephemeral zero-knowledge messaging room engine built with WebSockets and self-destructing rooms. | Socket.io, Express, MongoDB, React | [🌐 Live Demo](https://vanishthechat.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/vanish-chat) |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [www.linkedin.com/in/tanmay-shinde-9b07753bb]
-* **Portfolio/Website:** [www.tanmayshinde.com]
-* **Email:** [tanmaynileshshinde@gmail.com]
+* 💼 **LinkedIn:** [linkedin.com/in/tanmay-shinde-9b07753bb](https://www.linkedin.com/in/tanmay-shinde-9b07753bb)
+* 🌐 **Portfolio:** [tanmayshinde.com](https://www.tanmayshinde.com)
+* ✉️ **Direct Email:** [tanmaynileshshinde@gmail.com](mailto:tanmaynileshshinde@gmail.com)
