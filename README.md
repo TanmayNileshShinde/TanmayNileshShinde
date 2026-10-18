@@ -1,3 +1,5 @@
+<img align="right" src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=130&background=0000&currStreakLabel=0000&dates=0000&disable_animations=true" width="115" alt="Tanmay's Streak" />
+
 # Hi, I'm Tanmay Nilesh Shinde 👋
 
 <p align="left">
@@ -9,6 +11,8 @@
   <a href="https://www.tanmayshinde.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tanmaynileshshinde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<br clear="both"/>
 
 ---
 
