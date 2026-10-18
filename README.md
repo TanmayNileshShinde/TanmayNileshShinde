@@ -1,3 +1,5 @@
+<img align="right" src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true" width="370" alt="Tanmay's GitHub Streak" />
+
 # Hi, I'm Tanmay Nilesh Shinde 👋
 
 <p align="left">
@@ -9,6 +11,8 @@
   <a href="https://www.tanmayshinde.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tanmaynileshshinde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<br clear="both"/>
 
 ---
 
@@ -68,9 +72,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=20" height="165" alt="Tanmay's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true" alt="Tanmay's GitHub Streak" />
 </p>
 
 ---
