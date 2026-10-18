@@ -1,4 +1,4 @@
-<img align="right" src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=130&background=0000&currStreakLabel=0000&dates=0000&disable_animations=true" width="115" alt="Tanmay's Streak" />
+<img align="right" src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=130&card_height=170&background=0000&currStreakLabel=0000&dates=0000&disable_animations=true" width="95" alt="Tanmay's Streak" />
 
 # Hi, I'm Tanmay Nilesh Shinde 👋
 
@@ -12,7 +12,7 @@
   <a href="mailto:tanmaynileshshinde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br clear="both"/>
+<p>&nbsp;</p>
 
 ---
 
