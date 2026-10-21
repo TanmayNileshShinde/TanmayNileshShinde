@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanmay-shinde-9b07753bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tanmaynileshshinde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.tanmayshinde.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tanmaynileshshinde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -78,6 +78,6 @@
 ---
 
 ### 📫 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/tanmay-shinde-9b07753bb](https://www.linkedin.com/in/tanmay-shinde-9b07753bb)
+* 💼 **LinkedIn:** [linkedin.com/in/tanmaynileshshinde](https://www.linkedin.com/in/tanmaynileshshinde)
 * 🌐 **Portfolio:** [tanmayshinde.com](https://www.tanmayshinde.com)
 * ✉️ **Direct Email:** [tanmaynileshshinde@gmail.com](mailto:tanmaynileshshinde@gmail.com)
