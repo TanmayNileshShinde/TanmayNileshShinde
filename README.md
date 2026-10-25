@@ -55,21 +55,21 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CollabClass** | Real-time virtual classroom with peer-to-peer WebRTC video conferencing, synchronized whiteboarding & live code editor. | React, WebRTC, Firebase, Tailwind | [🌐 Live Demo](https://collabnclass.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/collabnclass) |
-| **React Nexus** | 8-in-1 cyber arcade web ecosystem featuring global real-time cloud leaderboards & 60 FPS physics. | React, Firebase RTDB, Framer Motion | [🌐 Live Demo](https://reactnexus.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/react-nexus) |
-| **3D Quantum Portfolio** | Interactive WebGL developer console with custom F1, Cricket, and Cyber themes built from scratch. | Three.js, Web Audio API, Vite | [🌐 Live Demo](https://www.tanmayshinde.com) • [💻 Code](https://github.com/TanmayNileshShinde/portfolio) |
-| **One-Word-A-Day** | Daily spaced-repetition vocabulary builder featuring atomic date locks and Supabase cloud sync. | React, Supabase, Node.js | [🌐 Live Demo](https://newdaynewword.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/one-word-a-day) |
-| **ClipSync Pro** | Universal cross-device clipboard with client-side AES-GCM 256 encryption, live QR pairing & self-destruct timers. | TypeScript, Web Crypto API, Tailwind | [🌐 Live Demo](https://clip-sync-pro.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/clip-sync-pro) |
-| **Ledger Flow** | Secure personal wealth vault with compound interest engines, cashflow forecasting & Chart.js. | TypeScript, React, Chart.js | [🌐 Live Demo](https://ledger-flow.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/ledger-flow) |
-| **Vanish Chat** | Ephemeral zero-knowledge messaging room engine built with WebSockets and self-destructing rooms. | Socket.io, Express, MongoDB, React | [🌐 Live Demo](https://vanishthechat.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/vanish-chat) |
+| **CollabClass** | Real-time virtual classroom with WebRTC video, synchronized whiteboarding, Shiki code viewer & Groq AI tutor. | React 18, Stream, Clerk, Supabase, Groq | [🌐 Live Demo](https://collabnclass.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/collabnclass) • [⭐ Star](https://github.com/TanmayNileshShinde/collabnclass) |
+| **React Nexus** | 8-in-1 cyber arcade web ecosystem featuring global real-time cloud leaderboards & 60 FPS physics. | React, Firebase RTDB, Framer Motion | [🌐 Live Demo](https://reactnexus.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/react-nexus) • [⭐ Star](https://github.com/TanmayNileshShinde/react-nexus) |
+| **3D Quantum Portfolio** | Interactive WebGL developer console with custom F1, Cricket, and Cyber themes built from scratch. | Three.js, Web Audio API, Vite | [🌐 Live Demo](https://www.tanmayshinde.com) • [💻 Code](https://github.com/TanmayNileshShinde/portfolio) • [⭐ Star](https://github.com/TanmayNileshShinde/portfolio) |
+| **One-Word-A-Day** | Daily spaced-repetition vocabulary builder featuring atomic date locks and Supabase cloud sync. | React, Supabase, Node.js | [🌐 Live Demo](https://newdaynewword.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/one-word-a-day) • [⭐ Star](https://github.com/TanmayNileshShinde/one-word-a-day) |
+| **ClipSync Pro** | Universal cross-device clipboard with client-side AES-GCM 256 encryption, live QR pairing & self-destruct timers. | TypeScript, Web Crypto API, Tailwind | [🌐 Live Demo](https://clip-sync-pro.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/clip-sync-pro) • [⭐ Star](https://github.com/TanmayNileshShinde/clip-sync-pro) |
+| **Ledger Flow** | Secure personal wealth vault with compound interest engines, cashflow forecasting & Chart.js. | TypeScript, React, Chart.js | [🌐 Live Demo](https://ledger-flow.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/ledger-flow) • [⭐ Star](https://github.com/TanmayNileshShinde/ledger-flow) |
+| **Vanish Chat** | Ephemeral zero-knowledge messaging room engine built with WebSockets and self-destructing rooms. | Socket.io, Express, MongoDB, React | [🌐 Live Demo](https://vanishthechat.vercel.app) • [💻 Code](https://github.com/TanmayNileshShinde/vanish-chat) • [⭐ Star](https://github.com/TanmayNileshShinde/vanish-chat) |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="165" alt="Tanmay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&show=reviews&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="175" alt="Tanmay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Tanmay's GitHub Streak" />
