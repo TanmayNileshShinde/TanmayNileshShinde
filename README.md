@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Nilesh Shinde 👋
 
-<img align="right" src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=130&card_height=170&background=0000&currStreakLabel=0000&dates=0000&disable_animations=true&timezone=Asia/Kolkata" width="90" alt="Tanmay's Streak" />
+<img align="right" src="https://raw.githubusercontent.com/TanmayNileshShinde/TanmayNileshShinde/main/assets/streak-mini.svg" width="90" alt="Tanmay's Streak" />
 
 <p align="left">
   <b>Computer Engineering Undergrad @ SAKEC Mumbai • Full-Stack & Creative Developer • 3D WebGL Enthusiast</b>
@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Tanmay's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/TanmayNileshShinde/TanmayNileshShinde/main/assets/streak.svg" alt="Tanmay's GitHub Streak" />
 </p>
 
 ---
