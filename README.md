@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanmayNileshShinde/TanmayNileshShinde/main/assets/streak.svg" alt="Tanmay's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&timezone=Asia%2FKolkata" alt="Tanmay's GitHub Streak" />
 </p>
 
 ---
