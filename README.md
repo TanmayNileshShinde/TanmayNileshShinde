@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Nilesh Shinde 👋
 
-<img align="right" src="https://raw.githubusercontent.com/TanmayNileshShinde/TanmayNileshShinde/main/assets/streak-mini.svg" width="90" alt="Tanmay's Streak" />
+<img align="right" src="https://raw.githubusercontent.com/TanmayNileshShinde/TanmayNileshShinde/main/assets/streak-mini.svg?v=14" width="90" alt="Tanmay's Streak" />
 
 <p align="left">
   <b>Computer Engineering Undergrad @ SAKEC Mumbai • Full-Stack & Creative Developer • 3D WebGL Enthusiast</b>
