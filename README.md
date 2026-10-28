@@ -68,8 +68,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&show=reviews&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="175" alt="Tanmay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanmayNileshShinde&show_icons=true&show=reviews&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="165" alt="Tanmay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNileshShinde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TanmayNileshShinde&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&timezone=Asia%2FKolkata" alt="Tanmay's GitHub Streak" />
