@@ -18,7 +18,7 @@
 * 🥇 **Best UI/UX Award Winner** at **Technathon 2026** for building high-engagement, interactive digital experiences.
 * 🎓 Pursuing **B.Tech in Computer Engineering** at Shah & Anchor Kutchhi Engineering College (SAKEC), Mumbai.
 * 🚀 **10+ Verified Production Deployments** live on Vercel handling WebRTC video, WebSockets, and 3D WebGL physics.
-* 🏎️ Avid Formula 1 & cricket enthusiast — bringing speed, real-time telemetry, and physical simulation to modern web apps.
+* 🏎️ Avid Formula 1 & cricket enthusiast, bringing speed, real-time telemetry, and physical simulation to modern web apps.
 
 ---
 
