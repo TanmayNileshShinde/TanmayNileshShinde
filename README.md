@@ -80,4 +80,4 @@
 ### 📫 Let's Connect
 * 💼 **LinkedIn:** [linkedin.com/in/tanmaynileshshinde](https://www.linkedin.com/in/tanmaynileshshinde)
 * 🌐 **Portfolio:** [tanmayshinde.com](https://www.tanmayshinde.com)
-* ✉️ **Direct Email:** [tanmaynileshshinde@gmail.com](mailto:tanmaynileshshinde@gmail.com)
+* ✉️ **Email:** [tanmaynileshshinde@gmail.com](mailto:tanmaynileshshinde@gmail.com)
